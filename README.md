@@ -1,4 +1,4 @@
-# KeyLoader.ps1 — Secure Session Key Loader for PowerShell
+# KeyLoader — Load Secure Session Key into PowerShell
 
 `KeyLoader.ps1` loads a secret key into the current PowerShell session as a process-level environment variable.
 
