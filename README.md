@@ -82,12 +82,10 @@ The loader does **not** write the key to disk, the registry, the user environmen
 
 ### 1.1 Download from the release package
 
-For normal use, download the packaged release rather than copying code out of this README.
-
-Recommended release download path once the initial package release is published:
+For normal use, download the packaged release.
 
 ```text
-https://github.com/Mrflooglebinder/Hash-Validator/releases/latest
+https://github.com/Mrflooglebinder/KeyLoader/releases/latest
 ```
 
 Download the release asset:
@@ -1414,13 +1412,12 @@ Recommended user install path:
 Latest release URL pattern:
 
 ```text
-https://github.com/Mrflooglebinder/Hash-Validator/releases/latest
-```
+https://github.com/Mrflooglebinder/KeyLoader/releases/latest
 
 Direct source repository:
 
 ```text
-https://github.com/Mrflooglebinder/Hash-Validator
+https://github.com/Mrflooglebinder/KeyLoader/releases/tag/v1.0.0
 ```
 
 ---
@@ -1432,7 +1429,7 @@ This project is licensed under the MIT License.
 License file:
 
 ```text
-https://github.com/Mrflooglebinder/Hash-Validator/blob/main/LICENSE
+https://github.com/Mrflooglebinder/KeyLoader/blob/main/LICENSE
 ```
 
 The license lives at the root of the repository.
